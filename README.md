@@ -1,6 +1,6 @@
 # Домашнее задание к занятию 
 # "`Disaster Recovery. FHRP и Keepalived`"
-# `Островский Евгений`
+# `Виктор Сумской`
 
 ### Инструкция по выполнению домашнего задания
 
@@ -32,15 +32,15 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 
-![Router1](https://github.com/joos-net/keepalived/blob/main/files/Router1.png)
+![Router1](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/Router1.png)
 
-![Router2](https://github.com/joos-net/keepalived/blob/main/files/Router2.png)
+![Router2](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/Router2.png)
 
-![ping1](https://github.com/joos-net/keepalived/blob/main/files/ping1.png)
+![ping1](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/ping1.png)
 
-![ping2](https://github.com/joos-net/keepalived/blob/main/files/ping2.png)
+![ping2](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/ping2.png)
 
-![ping3](https://github.com/joos-net/keepalived/blob/main/files/ping3.png)
+![ping3](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/ping3.png)
 
 ---
 
@@ -90,13 +90,13 @@ vrrp_instance VI_1 {
 }
 ```
 
-![task21](https://github.com/joos-net/keepalived/blob/main/files/task21.png)
+![task21](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/task21.png)
 
-![task22](https://github.com/joos-net/keepalived/blob/main/files/task22.png)
+![task22](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/task22.png)
 
-![task23](https://github.com/joos-net/keepalived/blob/main/files/task23.png)
+![task23](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/task23.png)
 
-![task24](https://github.com/joos-net/keepalived/blob/main/files/task24.png)
+![task24](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/task24.png)
 
 
 ---
@@ -143,8 +143,8 @@ vrrp_instance VI_1 {
 }
 ```
 
-![task31](https://github.com/joos-net/keepalived/blob/main/files/task31.png)
+![task31](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/task31.png)
 
-![task32](https://github.com/joos-net/keepalived/blob/main/files/task32.png)
+![task32](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/task32.png)
 
-![task33](https://github.com/joos-net/keepalived/blob/main/files/task33.png)
+![task33](https://github.com/VictorSum/FHRP_Keepalived/blob/main/files/task33.png)
